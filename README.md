@@ -1,6 +1,6 @@
 # Seam Social Labs
 
-The zip code piece seemed odd to me to do this without creating a field where the user would input this info but if this was the decided route I would explore using one of these API services to gather the zip code data then add the zip code with the most occurrences to the filter logic
+The zip code piece seemed odd to me to do this without creating a field where the user would input this info but if this was the decided route I would explore using one of these API services to gather the zip code data via an IP address then add the zip code with the most occurrences to the filter logic
 
 https://www.formget.com/ip-to-zip-code/
 
